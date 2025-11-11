@@ -1,0 +1,7 @@
+
+PS E:\ss\code> git add .
+PS E:\ss\code> git commit -m "hi "
+[main 20fd031] hi
+ 1 file changed, 1 insertion(+)
+ create mode 100644 j.py
+PS E:\ss\code> git push
